@@ -55,7 +55,7 @@ ROOT_URLCONF = 'MVTCarlosDaRocha.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [r'C:\Users\Kestreli5\Desktop\Python\Desafios entregables\MVT-CarlosDaRocha\templates'],
+        'DIRS': [r'C:\Users\BRYANG\Desktop\Coderhouse\MVT\MVT-CarlosDaRocha\templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
