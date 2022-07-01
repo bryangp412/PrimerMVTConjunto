@@ -1,4 +1,4 @@
-# Proyecto de Carlos Da Rocha
+# Proyecto de Carlos Da Rocha y Bryan Guerra
 
 - Trabajado por Bryan Guerra y Carlos Da Rocha
 
